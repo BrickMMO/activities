@@ -17,6 +17,7 @@ These are instructions for a collection of team building challenges using LEGO b
 | <img src="/images/prototyping/prototyping-thumbnail.png" width="200"> | Prototyping       | 8 to 32      | [View Instructions](/prototyping) |
 |                                                                       | Tallest Tower     | 8 to 32      | [View Instructions](/tower)       |
 |                                                                       | Build, Code, Race | 8 to 32      | [View Instructions](/race)        |
+|                                                                       | Escape Room       |1 to 6        | [View Instructions](/escape)      |
 
 ## Activities in Progress
 
