@@ -4,9 +4,9 @@
 
 ## Escape Room
 
-This challenge is an escape room built out of LEGO bricks. Unlike a traditional escape room, the objective of this escape room is to navigate the space rover back into the bunker using an Xbox conttroller. 
+This challenge is an escape room built out of LEGO bricks. Unlike a traditional escape room, the objective of this escape room is to navigate the space rover back into the bunker using an Xbox controller. 
 
-For seetup and solution information, checkout the [https://lystex.codeadam.ca/](Lystex) website. 
+For setup and solution information, checkout the [https://lystex.codeadam.ca/](Lystex) website. 
 
 ---
 
